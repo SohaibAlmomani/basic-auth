@@ -106,9 +106,9 @@ Refer to the the [Submitting Standard Node.js Lab Submission Instructions](../..
 
 # Assignment Submission :
 
-- [Action Link](https://github.com/SohaibAlmomani/basic-auth/actions)
-- [Pull requests Link](https://github.com/SohaibAlmomani/basic-auth/pulls?q=is%3Apr+is%3Aclosed)
-- [Heroku Main Deploy](https://sohaib-basic-auth-main.herokuapp.com/)
+## - [Action Link](https://github.com/SohaibAlmomani/basic-auth/actions)
+## - [Pull requests Link](https://github.com/SohaibAlmomani/basic-auth/pulls?q=is%3Apr+is%3Aclosed)
+## - [Heroku Main Deploy](https://sohaib-basic-auth-main.herokuapp.com/)
 
 # UML Diagram :
 
